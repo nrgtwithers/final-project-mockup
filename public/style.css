@@ -114,6 +114,7 @@ button.w3-button:hover{
   }
 
   input{
+    padding: 15px;
     justify-content: center;
   } 
 
@@ -135,4 +136,12 @@ a.links:hover{
 
   h1.title{
     text-align:center;
+  }
+
+  a.button{
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Prompt', sans-serif;
   }
