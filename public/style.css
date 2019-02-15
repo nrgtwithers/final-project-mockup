@@ -167,3 +167,8 @@ a.links:hover{
     font-weight: bold;
     /* text-align: center; */
   }
+
+  p.results{
+    font-size: 16px;
+    font-family: 'Prompt', sans-serif;
+  }
